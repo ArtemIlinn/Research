@@ -6,8 +6,8 @@
 ![alt text](https://www.utmb.edu/images/librariesprovider250/default-album/unified.jpg?sfvrsn=b1e6fe57_1)
 
 ## Includes:
-- CPPI Portfolio Panagement Strategy
-- Ecuador Bonds Overview/analysis
+- CPPI Portfolio Management Strategy
+- Ecuador Bonds Overview/Analysis
 - Assets Correlation Matrix Statement
 - ESG Essay
-- The US Economic Overview/analysis
+- The US Economic Overview/Analysis
