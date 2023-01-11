@@ -1,4 +1,4 @@
-# Analytics in Business and Finance.
+# Analytics: Business and Finance.
 
 ## A collection of research/analytics work regarding business, investments, ESG and other fields.
 
