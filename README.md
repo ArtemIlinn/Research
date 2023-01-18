@@ -9,6 +9,7 @@
 - CPPI Portfolio Management Strategy
 - Ecuador Bonds Overview/Analysis
 - The US Economic Overview/Analysis
+- Assets Correlations Statement
 
 ## Business:
 - Benchmarks for analyzing Cerebral company
