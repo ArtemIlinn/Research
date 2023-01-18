@@ -15,5 +15,5 @@
 - Portman-Ritz-Carlton’s features to success
 
 ## ESG:
-- ESG Essay New strategies for international business
+- ESG Essay - New strategies for international business
 
