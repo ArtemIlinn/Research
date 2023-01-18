@@ -5,11 +5,15 @@
 
 ![alt text](https://www.utmb.edu/images/librariesprovider250/default-album/unified.jpg?sfvrsn=b1e6fe57_1)
 
-## Includes:
+## Investments/Finance:
 - CPPI Portfolio Management Strategy
 - Ecuador Bonds Overview/Analysis
-- Benchmarks for analyzing Cerebral company
-- Assets Correlation Matrix Statement
-- ESG Essay
-- Portman-Ritz-Carlton’s features to success
 - The US Economic Overview/Analysis
+
+## Busimess:
+- Benchmarks for analyzing Cerebral company
+- Portman-Ritz-Carlton’s features to success
+
+## ESG:
+- ESG Essay 
+
