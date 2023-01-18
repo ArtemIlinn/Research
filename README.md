@@ -5,7 +5,7 @@
 
 ![alt text](https://www.utmb.edu/images/librariesprovider250/default-album/unified.jpg?sfvrsn=b1e6fe57_1)
 
-## Investments/Finance:
+## Investment/Finance:
 - CPPI Portfolio Management Strategy
 - Ecuador Bonds Overview/Analysis
 - The US Economic Overview/Analysis
