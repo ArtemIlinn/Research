@@ -8,6 +8,8 @@
 ## Includes:
 - CPPI Portfolio Management Strategy
 - Ecuador Bonds Overview/Analysis
+- Benchmarks for analyzing Cerebral company
 - Assets Correlation Matrix Statement
 - ESG Essay
+- Portman-Ritz-Carlton’s features to success
 - The US Economic Overview/Analysis
