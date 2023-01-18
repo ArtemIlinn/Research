@@ -10,10 +10,10 @@
 - Ecuador Bonds Overview/Analysis
 - The US Economic Overview/Analysis
 
-## Busimess:
+## Business:
 - Benchmarks for analyzing Cerebral company
 - Portman-Ritz-Carlton’s features to success
 
 ## ESG:
-- ESG Essay 
+- ESG Essay New strategies for international business
 
