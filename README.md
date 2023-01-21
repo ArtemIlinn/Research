@@ -14,6 +14,7 @@
 ## Business:
 - Benchmarks for analyzing Cerebral company
 - Portman-Ritz-Carlton’s features to success
+- Haier Expansion in the US case
 
 ## ESG:
 - ESG Essay - New strategies for international business
