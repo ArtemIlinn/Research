@@ -12,6 +12,7 @@
 - Assets Correlations Statement
 
 ## Business:
+- Recommendations for Improving Alfa-Bank’s Business Efficiency (presentation \+ report)
 - Benchmarks for analyzing Cerebral company
 - Portman-Ritz-Carlton’s features to success
 - Haier Expansion in the US case
